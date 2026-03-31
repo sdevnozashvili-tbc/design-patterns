@@ -1,0 +1,3 @@
+# Design Patterns - E-Commerce Order Management System
+
+🚧 Project setup in progress...
