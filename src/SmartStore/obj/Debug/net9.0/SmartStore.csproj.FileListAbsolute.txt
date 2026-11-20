@@ -1,0 +1,15 @@
+C:\Apps\design-patterns\src\SmartStore\bin\Debug\net9.0\SmartStore.exe
+C:\Apps\design-patterns\src\SmartStore\bin\Debug\net9.0\SmartStore.deps.json
+C:\Apps\design-patterns\src\SmartStore\bin\Debug\net9.0\SmartStore.runtimeconfig.json
+C:\Apps\design-patterns\src\SmartStore\bin\Debug\net9.0\SmartStore.dll
+C:\Apps\design-patterns\src\SmartStore\bin\Debug\net9.0\SmartStore.pdb
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.AssemblyInfoInputs.cache
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.AssemblyInfo.cs
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.csproj.CoreCompileInputs.cache
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.sourcelink.json
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.dll
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\refint\SmartStore.dll
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.pdb
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\SmartStore.genruntimeconfig.cache
+C:\Apps\design-patterns\src\SmartStore\obj\Debug\net9.0\ref\SmartStore.dll
